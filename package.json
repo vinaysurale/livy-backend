@@ -1,0 +1,26 @@
+{
+  "name": "livy-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaysurale/livy-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaysurale/livy-backend/issues"
+  },
+  "homepage": "https://github.com/vinaysurale/livy-backend#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
